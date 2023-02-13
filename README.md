@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working on learning Frontend Development. 
+🌱 I’m currently learning HTML, CSS, Bootstrap and Javascript. 
+📫 You can reach me by E-Mail, it's avirupsengupta19@gmail.com 
+
 
 <!--
 **Avirup-Sengupta/Avirup-Sengupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
